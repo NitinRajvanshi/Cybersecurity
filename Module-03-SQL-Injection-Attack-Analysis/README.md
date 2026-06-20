@@ -7,7 +7,6 @@ This project analyzes a SQL Injection attack captured in a PCAP file using Wires
 The objective was to identify malicious HTTP requests, analyze attacker behavior, extract database information, and understand how credentials were compromised through SQL Injection.
 
 ---
-<img width="940" height="436" alt="image" src="https://github.com/user-attachments/assets/4384d157-5844-475c-8d81-68d0876e7033" />
 
 ## Tools Used
 
@@ -85,6 +84,19 @@ charley
 - Apply Parameterized Queries
 - Deploy Web Application Firewalls
 - Follow Secure Coding Practices
+---
+## Screenshots 
+01_sql_injection_request 
+<img width="940" height="464" alt="image" src="https://github.com/user-attachments/assets/482a84fe-9ad9-4e4d-b1b5-1097a1a9795b" />
+02_vulnerable_sql_page.png
+<img width="940" height="464" alt="image" src="https://github.com/user-attachments/assets/dd901835-64e1-4121-8cde-4c93c6b10920" />
+03_union_select_attack.png
+<img width="940" height="464" alt="image" src="https://github.com/user-attachments/assets/59201b35-7c8b-4788-82f2-72bcdf0ac53f" />
+04_database_enumeration.png
+<img width="940" height="464" alt="image" src="https://github.com/user-attachments/assets/5d5ffc88-c83d-4d8f-b6ec-ee690d16a17d" />
+05_password_hash_cracked.png
+<img width="940" height="436" alt="image" src="https://github.com/user-attachments/assets/68c7dc12-8a6e-4e1b-9749-9fd02e92ac9e" />
+
 
 ---
 
