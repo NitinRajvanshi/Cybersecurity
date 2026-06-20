@@ -7,6 +7,7 @@ This project analyzes a SQL Injection attack captured in a PCAP file using Wires
 The objective was to identify malicious HTTP requests, analyze attacker behavior, extract database information, and understand how credentials were compromised through SQL Injection.
 
 ---
+<img width="940" height="436" alt="image" src="https://github.com/user-attachments/assets/4384d157-5844-475c-8d81-68d0876e7033" />
 
 ## Tools Used
 
